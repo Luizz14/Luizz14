@@ -12,8 +12,6 @@ Esta nos meus planos estudar sobre desenvolvimento backend com Node.js, Express 
 Estou estudando PHP.
 
 <h1>📊 Github Stats</h1>
-[[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Luizz14&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=Luizz14&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-https://github-readme-stats.vercel.app/api?username=Luizz14&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizz14&hide=python)](https://github.com/Luizz14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizz14&hide=python)]
 <h1>💬 Como entrar em contato comigo</h1>
 Você pode me enviar uma mensagem pelo LinkedIn ou pelo e-mail. Estou sempre aberto a novas oportunidades!
