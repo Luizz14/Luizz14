@@ -3,7 +3,7 @@ Atualmente, estou no estágio na DESO, onde estou trabalhando com React Native e
 
 <h1>🚀 Alguns dos meus projetos</h1>
 Sistema de Restaurante: Um sistema web para gerenciar um restaurante feito com Python junto com o framework Django. </br>
-To-do: Um aplicativo web para organizar as suas tarefas com JavaScript. </br>
+LuiGym: Um aplicativo moble feito com react native, o luigym é um app de academia que consome de uma API externa, tendo tambem uma funcionalidade de autenticação refresh token e hooks próprios.</br>
 DailyDiet: Um aplicativo mobile para te ajudar a manter sua dieta feita com React Native e expo. </br>
 
 <h1>📚 O que eu estou aprendendo</h1>
