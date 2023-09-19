@@ -1,5 +1,5 @@
 <h1>Olá, eu sou o Luiz Gustavo 👋</h1>
-Atualmente, estou focado em aprimorar minhas habilidades em ReactNative e ReactJS e também pretendo estudar NodeJS em um futuro próximo. Já trabalhei em vários projetos usando JavaScript e ganhei experiência na criação de aplicações web interativas e responsivas. Estou animado para continuar aprendendo e expandindo meus conhecimentos nessas áreas.
+Atualmente, estou no estágio na DESO, onde estou trabalhando com React Native e outras tecnologias. Meu foco principal é aprimorar minhas habilidades em ReactNative e ReactJS, e também tenho planos de explorar o NodeJS em um futuro próximo. Tenho experiência em vários projetos envolvendo Typescript e React quais desenvolvi algumas aplicações. Estou animado para continuar aprendendo e expandindo meus conhecimentos nessas áreas.
 
 <h1>🚀 Alguns dos meus projetos</h1>
 Sistema de Restaurante: Um sistema web para gerenciar um restaurante feito com Python junto com o framework Django. </br>
@@ -11,7 +11,5 @@ Estou aprofundando os meus conhecimentos em React e React Native, explorando nov
 Esta nos meus planos estudar sobre desenvolvimento backend com Node.js, Express e MongoDB.
 Estou estudando PHP.
 
-<h1>📊 Github Stats</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizz14&hide=python)]
 <h1>💬 Como entrar em contato comigo</h1>
-Você pode me enviar uma mensagem pelo LinkedIn ou pelo e-mail. Estou sempre aberto a novas oportunidades!
+Você pode me enviar uma mensagem pelo <a href='https://www.linkedin.com/in/luizgustavomourasantos/'>LinkedIn</a> ou pelo e-mail (luizgustmourasantos@gmail.com ) . Estou sempre aberto a novas oportunidades!
