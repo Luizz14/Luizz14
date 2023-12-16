@@ -9,7 +9,6 @@ DailyDiet: Um aplicativo mobile para te ajudar a manter sua dieta feita com Reac
 <h1>📚 O que eu estou aprendendo</h1>
 Estou aprofundando os meus conhecimentos em React e React Native, explorando novas bibliotecas e ferramentas.
 Esta nos meus planos estudar sobre desenvolvimento backend com Node.js, Express e MongoDB.
-Estou estudando PHP.
 
 <h1>💬 Como entrar em contato comigo</h1>
 Você pode me enviar uma mensagem pelo <a href='https://www.linkedin.com/in/luizgustavomourasantos/'>LinkedIn</a> ou pelo e-mail (luizgustmourasantos@gmail.com ) . Estou sempre aberto a novas oportunidades!
