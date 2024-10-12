@@ -4,10 +4,15 @@ Atualmente, trabalho no SergipeTec, prestando serviço ao Banese, onde estou atu
 <h1>🚀 Alguns dos meus projetos</h1>
 
 - **Sistema de Restaurante:** Um sistema web para gerenciar um restaurante, desenvolvido com Python e o framework Django, feito para o TCC de análise e desenvolvimento de sistemas.
-- **LuiGym:** Um aplicativo mobile feito com React Native. O LuiGym é um app de academia que consome uma API externa, além de ter funcionalidades como autenticação via refresh token (JWT) e hooks personalizados.  
+
+- **LuiGym:** Um aplicativo mobile feito com React Native. O LuiGym é um app de academia que consome uma API externa, além de ter funcionalidades como autenticação via refresh token (JWT) e hooks personalizados.
+   
 - **SGF:** Um aplicativo mobile desenvolvido para a DESO, voltado para o gerenciamento de frotas, com o princípio de "offline first". As principais tecnologias usadas foram React Native, AtlasDB e Expo.  
+
 - **SATI:** Um aplicativo mobile também desenvolvido para a DESO, focado no gerenciamento de chamados de suporte técnico. As principais tecnologias utilizadas foram React Native, AtlasDB e Expo.  
+
 - **LuiFleet:** Um aplicativo mobile para controle de frota empresarial, com foco em "offline first", utilizando RealmDB e MongoDB como bancos de dados.  
+
 - **Fluffy:** Um aplicativo mobile para gerenciamento de hábitos, criação de rotinas e to-do lists, desenvolvido com Flutter.  
 
 <h1>💻 Techs</h1>
