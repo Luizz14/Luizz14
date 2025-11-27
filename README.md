@@ -1,5 +1,5 @@
 <h1>Olá, eu sou Luiz Gustavo 👋</h1>
-Atualmente, trabalho no SergipeTec, prestando serviço ao Banese, onde estou atuando com desenvolvimento mobile nativo com kotlin. Meu foco principal é aprimorar minhas habilidades em desenvolvimento mobile nativo e Flutter multiplataforma, e também tenho planos de explorar Node.js em um futuro próximo. Tenho experiência em vários projetos envolvendo TypeScript, React Native, React e Python, nos quais desenvolvi diversas aplicações. Estou animado para continuar aprendendo e expandindo meus conhecimentos nessas áreas.
+Atualmente, trabalho no SergipeTec, prestando serviço ao Banese, onde estou atuando com desenvolvimento mobile nativo com kotlin e swift. Meu foco principal é aprimorar minhas habilidades em desenvolvimento mobile nativo e Flutter multiplataforma Tenho experiência em vários projetos envolvendo TypeScript, React Native, React e Python, nos quais desenvolvi diversas aplicações.
 
 <h1>🚀 Alguns dos meus projetos</h1>
 
